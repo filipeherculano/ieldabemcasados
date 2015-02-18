@@ -1,0 +1,6 @@
+php_flag authmail.debug ON
+php_value authmail.port 587
+php_value authmail.address noreply@ieldabemcasados.com.br
+php_value authmail.smtp_account noreply=ieldabemcasados.com.br
+php_value authmail.smtp smtp.ieldabemcasados.com.br
+php_value authmail.password '11316652' 
